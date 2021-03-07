@@ -1,4 +1,4 @@
-![chenzizui github stats](https://github-readme-stats.vercel.app/api?username=chenzizui&theme=radical)
+![chenzizui github stats](https://github-readme-stats.vercel.app/api?username=chenzizui&theme=light)
 
 
 
